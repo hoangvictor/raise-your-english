@@ -1293,8 +1293,8 @@ input[type='checkbox'] {
 /*   18. Market Research  */
 /**************************/
 .counter {
-	padding-top: 6.5rem;
-	padding-bottom: 5.375rem;
+	padding-top: 5rem;
+	padding-bottom: 5rem;
 	background-color: #262431;
 	text-align: center;
 }
@@ -1900,9 +1900,9 @@ a:hover.back-to-top {
 	}
 
 	.counter #counter .cell {
-		width: 8rem;
-		margin-right: 2.5rem;
-		margin-left: 2.5rem;
+		width: 18rem;
+		margin-right: 1.5rem;
+		margin-left: 1.5rem;
 	}
 	
 	.counter #counter .counter-value {
